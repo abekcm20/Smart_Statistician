@@ -87,4 +87,5 @@ while(Active !='Quit'):
             operation.Analyze(lst[return_num_5])
             lst.clear()
         elif options == 6:
+            print('Thanks')
             Active='Quit'
